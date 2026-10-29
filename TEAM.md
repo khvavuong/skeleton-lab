@@ -3,7 +3,7 @@
 ## Thông tin nhóm
 
 - Tên nhóm:
-- Repo nhóm: `K4-L3-DAYxx-TenNhom-TenBai`
+- Repo nhóm: `Kn-L3-DAYxx-TenNhom-TenBai` (trong đó `n` là số khóa; ví dụ khóa 4 thay bằng `K4`)
 
 ## Thành viên
 
