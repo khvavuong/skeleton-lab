@@ -23,3 +23,7 @@ report/individual/MSSV_HoTen.md
 ```
 
 Ví dụ: `report/individual/20241234_NguyenVanAn.md`.
+
+## Góp ý bài lab (K5)
+
+[Góp ý bài lab (30 giây)](https://docs.google.com/forms/d/e/1FAIpQLSd8Mh7YkGEn-hnaePgbli4KqJ8-rkzCrFOIjr3YyCcrDs1UHA/viewform) — chọn đúng Day và Level của bài. Form không hỏi tên, email hay MSSV; góp ý không ảnh hưởng đến điểm.
